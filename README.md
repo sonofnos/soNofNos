@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Votr (My Personal Project)](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)**
 
 - 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021]**
 

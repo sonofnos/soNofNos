@@ -8,13 +8,15 @@
 
 - 🔭 I’m currently working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)**
 
-- 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021]**
+- 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021], and Core backend Technologies through Udemy Courses**
 
-- 👯 I’m looking to collaborate on **Freelance and Contract Projects**
+<!-- - 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021]**
+ -->
+- 👯 I’m looking to collaborate on **Freelance, Contract or Full-time Projects** but that maybe towards the end of September...sorry
 
 - 👨‍💻 All of my Flutter projects are available at **[My G-Drive Portfolio](https://drive.google.com/drive/u/0/folders/1WfmHAWYCVqYKihQFVx3-LN_7iguTMfhc)**
 
-- 📫 How to reach me **christian1emeka@gmail.com**
+- 📫 You can reach me via **christian1emeka@gmail.com**
 
 
 

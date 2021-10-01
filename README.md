@@ -6,17 +6,21 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)**
+Christian Charles Chibuike Emeka is currently: 
 
-- 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021], and Core backend Technologies through Udemy Courses**
+- the Lead Flutter Tutor, GDSC, University of Lagos, Nigeria.
+
+- 🔭 working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)** and Raoatech Ltd.
+
+- 🌱 learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021], and Core backend Technologies through Udemy Courses**
 
 <!-- - 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021]**
  -->
-- 👯 I’m looking to collaborate on **Freelance, Contract or Full-time Projects** but that maybe towards the end of September...sorry
+- 👯 looking to collaborate on **Freelance, Contract or Full-time Projects**
 
-- 👨‍💻 All of my Flutter projects are available at **[My G-Drive Portfolio](https://drive.google.com/drive/u/0/folders/1WfmHAWYCVqYKihQFVx3-LN_7iguTMfhc)**
+- 👨‍💻 has all his Flutter projects available at **[My G-Drive Portfolio](https://drive.google.com/drive/u/0/folders/1WfmHAWYCVqYKihQFVx3-LN_7iguTMfhc)**
 
-- 📫 You can reach me via **christian1emeka@gmail.com**
+- 📫 can be reached via **christian1emeka@gmail.com**
 
 
 

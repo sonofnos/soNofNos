@@ -8,14 +8,14 @@
 
 Christian Charles Chibuike Emeka is currently: 
 
-- the Lead Flutter Tutor, GDSC, University of Lagos, Nigeria.
+<!-- - the Lead Flutter Tutor, GDSC, University of Lagos, Nigeria.
 
 - working with Raoatech Ltd as Software Developer
-
+ -->
 - 🔭 working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)**
 
-- 🌱 learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021], Huawei Cloud and Core backend Technologies through Udemy Courses**
-
+<!-- - 🌱 learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021], Huawei Cloud and Core backend Technologies through Udemy Courses**
+ -->
 <!-- - 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021]**
  -->
 - 👯 looking to collaborate on **Freelance, Contract or Full-time Projects**

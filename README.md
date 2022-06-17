@@ -12,15 +12,15 @@ Christian Charles Chibuike Emeka is currently:
 
 - working with Raoatech Ltd as Software Developer
  -->
-- 🔭 working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)**
+<!-- - 🔭 working on **[Votr (My Personal Project)](https://drive.google.com/drive/folders/1aRxGJXXOhGEd6Ch27AiLoERl9nEzgygf?usp=sharing/)** -->
 
 <!-- - 🌱 learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021], Huawei Cloud and Core backend Technologies through Udemy Courses**
  -->
 <!-- - 🌱 I’m currently learning **Cloud Development through the Google Andela Developer's Scholarship [GADS 2021]**
  -->
-- 👯 looking to collaborate on **Freelance, Contract or Full-time Projects**
+<!-- - 👯 looking to collaborate on **Freelance, Contract or Full-time Projects**
 
-- 👨‍💻 has all his recent Flutter projects available at **[My G-Drive Portfolio](https://drive.google.com/drive/u/0/folders/1WfmHAWYCVqYKihQFVx3-LN_7iguTMfhc)**
+- 👨‍💻 has all his recent Flutter projects available at **[My G-Drive Portfolio](https://drive.google.com/drive/u/0/folders/1WfmHAWYCVqYKihQFVx3-LN_7iguTMfhc)** -->
 
 - 📫 can be reached via **christian1emeka@gmail.com**
 

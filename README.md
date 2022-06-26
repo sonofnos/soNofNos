@@ -6,7 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-Christian Charles Chibuike Emeka is currently: 
+<!-- Christian Charles Chibuike Emeka is currently:  -->
+
+Christian Charles Chibuike Emeka can currently: 
 
 <!-- - the Lead Flutter Tutor, GDSC, University of Lagos, Nigeria.
 

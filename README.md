@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I'm Christian</h1>
-<h3 align="center">I'm a Software Engineer with a passion for building clean, scalable and intuitive applications/tools either for Hardware, Software or Automation </h3>
+<!-- <h3 align="center">I'm a Software Engineer with a passion for building clean, scalable and intuitive applications/tools either for Hardware, Software or Automation </h3> -->
 
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me -->
 
 <!-- Christian Charles Chibuike Emeka is currently:  -->
 
-Christian Charles Chibuike Emeka can currently: 
+<!-- Christian Charles Chibuike Emeka can currently:  -->
 
 <!-- - the Lead Flutter Tutor, GDSC, University of Lagos, Nigeria.
 

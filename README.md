@@ -24,7 +24,7 @@
 
 - 👨‍💻 has all his recent Flutter projects available at **[My G-Drive Portfolio](https://drive.google.com/drive/u/0/folders/1WfmHAWYCVqYKihQFVx3-LN_7iguTMfhc)** -->
 
-- 📫 be reached via **christian1emeka@gmail.com**
+- 📫 be reached via **christian@sonofnos.com**
 
 
 <!-- 
